@@ -9,7 +9,7 @@ Installations :
 
 python
 
-python-m pip install Django
+python -m pip install Django
 
 pip install crispy-bootstrap5
 
